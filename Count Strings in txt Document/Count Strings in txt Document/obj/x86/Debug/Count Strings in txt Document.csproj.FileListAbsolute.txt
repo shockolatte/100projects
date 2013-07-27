@@ -1,0 +1,9 @@
+C:\Users\Andrew\documents\visual studio 2010\Projects\Count Strings in txt Document\Count Strings in txt Document\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Andrew\documents\visual studio 2010\Projects\Count Strings in txt Document\Count Strings in txt Document\obj\x86\Debug\Count_Strings_in_txt_Document.Form1.resources
+C:\Users\Andrew\documents\visual studio 2010\Projects\Count Strings in txt Document\Count Strings in txt Document\obj\x86\Debug\Count_Strings_in_txt_Document.Properties.Resources.resources
+C:\Users\Andrew\documents\visual studio 2010\Projects\Count Strings in txt Document\Count Strings in txt Document\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Andrew\documents\visual studio 2010\Projects\Count Strings in txt Document\Count Strings in txt Document\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Andrew\documents\visual studio 2010\Projects\Count Strings in txt Document\Count Strings in txt Document\bin\Debug\Count Strings in txt Document.exe
+C:\Users\Andrew\documents\visual studio 2010\Projects\Count Strings in txt Document\Count Strings in txt Document\bin\Debug\Count Strings in txt Document.pdb
+C:\Users\Andrew\documents\visual studio 2010\Projects\Count Strings in txt Document\Count Strings in txt Document\obj\x86\Debug\Count Strings in txt Document.exe
+C:\Users\Andrew\documents\visual studio 2010\Projects\Count Strings in txt Document\Count Strings in txt Document\obj\x86\Debug\Count Strings in txt Document.pdb

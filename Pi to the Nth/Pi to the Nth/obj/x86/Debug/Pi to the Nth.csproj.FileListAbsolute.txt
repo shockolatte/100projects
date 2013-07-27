@@ -1,0 +1,9 @@
+C:\Users\Andrew\documents\visual studio 2010\Projects\Pi to the Nth\Pi to the Nth\bin\Debug\Pi to the Nth.exe
+C:\Users\Andrew\documents\visual studio 2010\Projects\Pi to the Nth\Pi to the Nth\bin\Debug\Pi to the Nth.pdb
+C:\Users\Andrew\documents\visual studio 2010\Projects\Pi to the Nth\Pi to the Nth\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Andrew\documents\visual studio 2010\Projects\Pi to the Nth\Pi to the Nth\obj\x86\Debug\Pi_to_the_Nth.Form1.resources
+C:\Users\Andrew\documents\visual studio 2010\Projects\Pi to the Nth\Pi to the Nth\obj\x86\Debug\Pi_to_the_Nth.Properties.Resources.resources
+C:\Users\Andrew\documents\visual studio 2010\Projects\Pi to the Nth\Pi to the Nth\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Andrew\documents\visual studio 2010\Projects\Pi to the Nth\Pi to the Nth\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Andrew\documents\visual studio 2010\Projects\Pi to the Nth\Pi to the Nth\obj\x86\Debug\Pi to the Nth.exe
+C:\Users\Andrew\documents\visual studio 2010\Projects\Pi to the Nth\Pi to the Nth\obj\x86\Debug\Pi to the Nth.pdb

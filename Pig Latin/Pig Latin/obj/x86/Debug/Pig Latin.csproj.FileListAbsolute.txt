@@ -1,0 +1,18 @@
+C:\Users\Andrew\AppData\Local\Temporary Projects\Pig Latin\bin\Debug\Pig Latin.exe
+C:\Users\Andrew\AppData\Local\Temporary Projects\Pig Latin\bin\Debug\Pig Latin.pdb
+C:\Users\Andrew\AppData\Local\Temporary Projects\Pig Latin\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Andrew\AppData\Local\Temporary Projects\Pig Latin\obj\x86\Debug\Pig_Latin.Form1.resources
+C:\Users\Andrew\AppData\Local\Temporary Projects\Pig Latin\obj\x86\Debug\Pig_Latin.Properties.Resources.resources
+C:\Users\Andrew\AppData\Local\Temporary Projects\Pig Latin\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Andrew\AppData\Local\Temporary Projects\Pig Latin\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Andrew\AppData\Local\Temporary Projects\Pig Latin\obj\x86\Debug\Pig Latin.exe
+C:\Users\Andrew\AppData\Local\Temporary Projects\Pig Latin\obj\x86\Debug\Pig Latin.pdb
+C:\Users\Andrew\documents\visual studio 2010\Projects\Pig Latin\Pig Latin\obj\x86\Debug\Pig Latin.exe
+C:\Users\Andrew\documents\visual studio 2010\Projects\Pig Latin\Pig Latin\obj\x86\Debug\Pig Latin.pdb
+C:\Users\Andrew\documents\visual studio 2010\Projects\Pig Latin\Pig Latin\bin\Debug\Pig Latin.exe
+C:\Users\Andrew\documents\visual studio 2010\Projects\Pig Latin\Pig Latin\bin\Debug\Pig Latin.pdb
+C:\Users\Andrew\documents\visual studio 2010\Projects\Pig Latin\Pig Latin\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Andrew\documents\visual studio 2010\Projects\Pig Latin\Pig Latin\obj\x86\Debug\Pig_Latin.Form1.resources
+C:\Users\Andrew\documents\visual studio 2010\Projects\Pig Latin\Pig Latin\obj\x86\Debug\Pig_Latin.Properties.Resources.resources
+C:\Users\Andrew\documents\visual studio 2010\Projects\Pig Latin\Pig Latin\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Andrew\documents\visual studio 2010\Projects\Pig Latin\Pig Latin\obj\x86\Debug\GenerateResource.write.1.tlog

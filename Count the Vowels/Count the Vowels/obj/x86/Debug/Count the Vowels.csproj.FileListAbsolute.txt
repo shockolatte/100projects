@@ -1,0 +1,9 @@
+C:\Users\Andrew\documents\visual studio 2010\Projects\Count the Vowels\Count the Vowels\bin\Debug\Count the Vowels.exe
+C:\Users\Andrew\documents\visual studio 2010\Projects\Count the Vowels\Count the Vowels\bin\Debug\Count the Vowels.pdb
+C:\Users\Andrew\documents\visual studio 2010\Projects\Count the Vowels\Count the Vowels\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Andrew\documents\visual studio 2010\Projects\Count the Vowels\Count the Vowels\obj\x86\Debug\Count_the_Vowels.Form1.resources
+C:\Users\Andrew\documents\visual studio 2010\Projects\Count the Vowels\Count the Vowels\obj\x86\Debug\Count_the_Vowels.Properties.Resources.resources
+C:\Users\Andrew\documents\visual studio 2010\Projects\Count the Vowels\Count the Vowels\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Andrew\documents\visual studio 2010\Projects\Count the Vowels\Count the Vowels\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Andrew\documents\visual studio 2010\Projects\Count the Vowels\Count the Vowels\obj\x86\Debug\Count the Vowels.exe
+C:\Users\Andrew\documents\visual studio 2010\Projects\Count the Vowels\Count the Vowels\obj\x86\Debug\Count the Vowels.pdb

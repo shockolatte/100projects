@@ -1,0 +1,9 @@
+C:\Users\Andrew\documents\visual studio 2010\Projects\Check if Palindrome\Check if Palindrome\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Andrew\documents\visual studio 2010\Projects\Check if Palindrome\Check if Palindrome\obj\x86\Debug\Check_if_Palindrome.Form1.resources
+C:\Users\Andrew\documents\visual studio 2010\Projects\Check if Palindrome\Check if Palindrome\obj\x86\Debug\Check_if_Palindrome.Properties.Resources.resources
+C:\Users\Andrew\documents\visual studio 2010\Projects\Check if Palindrome\Check if Palindrome\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Andrew\documents\visual studio 2010\Projects\Check if Palindrome\Check if Palindrome\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Andrew\documents\visual studio 2010\Projects\Check if Palindrome\Check if Palindrome\bin\Debug\Check if Palindrome.exe
+C:\Users\Andrew\documents\visual studio 2010\Projects\Check if Palindrome\Check if Palindrome\bin\Debug\Check if Palindrome.pdb
+C:\Users\Andrew\documents\visual studio 2010\Projects\Check if Palindrome\Check if Palindrome\obj\x86\Debug\Check if Palindrome.exe
+C:\Users\Andrew\documents\visual studio 2010\Projects\Check if Palindrome\Check if Palindrome\obj\x86\Debug\Check if Palindrome.pdb
